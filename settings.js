@@ -17,8 +17,8 @@ global.APIKeys = {
 //language 
 global.language = english //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "6372783424:AAHmN8RRRtoEQTnwUVUnOh4tB5jTYEsgilU"
-" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "6372783424:AAGhHFZLhuGA0nCxyMDWb7vA8PmROMYpwVg"
+//create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "Xylark" //your bot name
 global.OWNER_NAME = "Xylark" //your name
 global.OWNER_NUMBER = "60147366955" //your telegram number
